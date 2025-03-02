@@ -7,3 +7,6 @@ todo:
 - add in a ui
 - need to think about persisting jobs + metrics (grafana?)
 - integrate with existing projects
+
+current jobs:
+- github/jobs
